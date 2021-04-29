@@ -1,0 +1,8 @@
+*.code-workspace
+**/__pycache__/**
+*.egg-info
+*.log
+*.vscode
+*py.class
+*.DS_Store
+*.class
